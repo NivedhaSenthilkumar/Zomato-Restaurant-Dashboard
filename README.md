@@ -46,6 +46,8 @@ o	Include hover-over tooltips for detailed information.
 o	Test the dashboard for usability and performance.
 o	Optimize queries for faster data retrieval and rendering.
 
+![image](https://github.com/user-attachments/assets/9a7c357d-b220-42d9-ac7b-a2479574fb1b)
+
 Metrics:
 •	Average Rating: 3.70
 •	Average Cost for Two: ₹555.43
